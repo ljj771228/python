@@ -1,1 +1,1 @@
-print("hell o world!")
+print("hell o world!"*3)
